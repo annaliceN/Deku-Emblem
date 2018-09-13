@@ -5,7 +5,7 @@
 //We do not own any of the graphics used in the GUI
 //Characters: My Hero Academia (Hirokoshi Kohei)
 //Game inspiration: Fire Emblem franchise
-//GUI: Processing Library (Processing Foundation
+//GUI: Processing Library (Processing Foundation)
 
 package dekuemblem;
 
